@@ -17,7 +17,8 @@ function ternaryCheckCity(city) {
 }
 function switchOnCharmFromTip(tip){
   switch
-    case "generous"
+    case "generous":
+      console.log 
     
     default: "Bye."
   
