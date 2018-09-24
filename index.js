@@ -7,7 +7,9 @@ function scuberGreetingForFeet(distance) {
     return"I will gladly take your thirty bucks."
   }
   else if(distance>=3000)
+  return""
 }
+
 function ternaryCheckCity(city) {
   
 }
