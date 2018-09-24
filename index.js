@@ -13,6 +13,7 @@ function scuberGreetingForFeet(distance) {
 
 function ternaryCheckCity(city) {
   
+  
 }
 function switchOnCharmFromTip(tip){
   
