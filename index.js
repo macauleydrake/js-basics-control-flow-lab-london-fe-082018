@@ -24,7 +24,7 @@ function switchOnCharmFromTip(tip){
       return ("Thank you.")
       break;
     default: 
-      return ("bye.")
+      return ("Bye.")
       break;
   }
 }
