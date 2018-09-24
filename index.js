@@ -19,6 +19,6 @@ function switchOnCharmFromTip(tip){
   switch
     case 
     
-    default: 
+    default: "Bye."
   
 }
